@@ -1,0 +1,8 @@
+
+package ejer40C5;
+public class MainE40 {
+    public static void main(String[] args) {
+        VentanaE40 v1 = new VentanaE40();
+        v1.setVisible(true);
+    }  
+}
